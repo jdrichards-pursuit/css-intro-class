@@ -19,4 +19,4 @@ AT LEAST 4 WAYS TO DEFINE COLORS
    rgb(123, 245, 255, 0.3) like old tvs
 3. hexadecimal - hex for short
    #FFE4C4 numbers will count from 0-9, A=10, B=11, C=12....F=15
-4.
+4. hsl - hue, saturation and light works in percentages
